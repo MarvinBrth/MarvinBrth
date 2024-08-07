@@ -7,6 +7,7 @@ Hello! I am Marvin, a passionate developer with expertise in embedded systems an
 
 ## My Skills
 - Programming languages: C, C++
+- Altium, Kicad, Easyeda
 - 💻 STM32CubeIDE 
 - 🦿Fusion360 
 
